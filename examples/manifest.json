@@ -1,0 +1,44 @@
+[
+  {
+    "edit_prompt": "Change the color of the fire to blue.",
+    "source_prompt": "A fire burning in an outdoor fireplace made from logs and stones.",
+    "target_prompt": "A blue fire burning in an outdoor fireplace made from logs and stones.",
+    "source_video": "source_videos/fire_source.mp4",
+    "edited_video": "outputs/fire_edited.mp4"
+  },
+  {
+    "edit_prompt": "Change the elephant's color to blue.",
+    "source_prompt": "An elephant is walking slowly across a rocky enclosure in a zoo, with dust rising around its feet. The camera remains fixed, capturing the elephant's steady movement against the backdrop of trees and a building.",
+    "target_prompt": "A blue elephant is walking slowly across a rocky enclosure in a zoo, with dust rising around its feet. The camera remains fixed, capturing the elephant's steady movement against the backdrop of trees and a building.",
+    "source_video": "source_videos/elephant_source.mp4",
+    "edited_video": "outputs/elephant_edited.mp4"
+  },
+  {
+    "edit_prompt": "Convert the video to black and white.",
+    "source_prompt": "A small puppy is playing with its reflection in a mirror, showing curiosity and playful behavior in a cozy indoor setting.",
+    "target_prompt": "A small puppy is playing with its reflection in a mirror, showing curiosity and playful behavior in a cozy indoor setting, presented in black and white.",
+    "source_video": "source_videos/black_white_source.mp4",
+    "edited_video": "outputs/black_white_edited.mp4"
+  },
+  {
+    "edit_prompt": "Change the turquoise waves to black.",
+    "source_prompt": "The video captures an aerial view of a rocky coastline where turquoise waves crash against rugged cliffs, creating a dynamic interplay of water and stone.",
+    "target_prompt": "The video captures an aerial view of a rocky coastline where black waves crash against rugged cliffs, creating a dynamic interplay of water and stone.",
+    "source_video": "source_videos/waves_source.mp4",
+    "edited_video": "outputs/waves_edited.mp4"
+  },
+  {
+    "edit_prompt": "Convert the video style to ukiyo-e.",
+    "source_prompt": "A massive outdoor concert with a large crowd waving various national flags in front of an elaborate stage setup.",
+    "target_prompt": "A massive outdoor concert with a large crowd waving various national flags in front of an elaborate stage setup in ukiyo-e style.",
+    "source_video": "source_videos/ukiyo_e_source.mp4",
+    "edited_video": "outputs/ukiyo_e_edited.mp4"
+  },
+  {
+    "edit_prompt": "Change the black clothing to red.",
+    "source_prompt": "The video depicts a dramatic battle scene, in which a warrior dressed in black stands triumphantly atop a pile of defeated enemies under a stormy sky.",
+    "target_prompt": "The video depicts a dramatic battle scene, in which a warrior dressed in red stands triumphantly atop a pile of defeated enemies under a stormy sky.",
+    "source_video": "source_videos/red_clothing_source.mp4",
+    "edited_video": "outputs/red_clothing_edited.mp4"
+  }
+]
